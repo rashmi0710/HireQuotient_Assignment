@@ -8,3 +8,5 @@ const image = document.querySelector('.bdo_imag');
 
       image.style.transform = `scale(${scaleFactor})`;
     });
+
+    
